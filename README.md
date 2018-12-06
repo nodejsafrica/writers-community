@@ -9,7 +9,6 @@ Get hands-on with communicating Technical topics and using terminologies for int
 # Table of Content
 - Technical Writing Definition
 - Technical Writing Process
-- Technical Writing Resources
 - Technical Writing Tasks
 
 
